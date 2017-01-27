@@ -1,6 +1,6 @@
 ---
 applications:
-- name: vinayak-spring-music
+- name: vinayak-spring-boot
   memory: 1G
   domain: epsh.in
   host: "10"
