@@ -2,7 +2,6 @@
 applications:
 - name: vinayak-spring-boot
   memory: 1G
-  domain: epsh.in
   host: "10"
-  path: build/libs/spring-music.jar
+  buildpack: https://github.com/cloudfoundry/java-buildpack.git
 
